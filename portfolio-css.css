@@ -1,0 +1,41 @@
+body {
+  /* Typography Declarations*/
+  color: #222222;
+  font-size: 1em;
+  font-family: "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.masthead-heading, 
+.masthead-subheading {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.content-footer, 
+.masthead-heading, 
+.first-project, 
+.second-project, 
+h2 {
+	text-align: center;}
+
+h1, h2 {font-family: 'Satisfy', cursive;}
+
+.masthead {
+	padding: 6em 0;
+	background-image: url(http://i.imgur.com/DIcCRHw.jpg);
+	background-repeat: none; 
+ 	background-size: cover;
+ 	border-top-style: solid;
+  	border-top-width: 1em;
+  	border-top-color: #A9A9A9;
+}
+
+.masthead-heading {
+	font-family: 'Satisfy', cursive;
+  	font-weight: bold;
+  	font-size: 6em;
+}
+
+.social > li {
+	display: inline-block;
+}
