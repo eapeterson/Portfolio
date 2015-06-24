@@ -40,6 +40,24 @@ h1 {color: #06401F}
   color: #06401F;
 }
 
+.top-navigation > .content {
+  width: 970px;
+  height: 70px;
+  margin: 0 auto;
+  padding: 0px 15px;}
+
+.links li {
+  margin-left: 25px;
+  margin-right: 25px; 
+  display: inline-block;
+  font-family: 'Satisfy', cursive;
+  font-size: 1.5em;
+}
+.links li:hover {
+  cursor: pointer;
+  color: #333333;
+}
+
 .content-footer, 
 .introduction-section, 
 .location-section, 
